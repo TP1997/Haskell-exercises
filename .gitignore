@@ -3,3 +3,5 @@
 *.md
 *.yaml
 Setup.hs
+LICENCE
+.stack-work/
