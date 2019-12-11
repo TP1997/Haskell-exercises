@@ -1,0 +1,5 @@
+*.cabal
+*.lock
+*.md
+*.yaml
+Setup.hs
