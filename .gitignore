@@ -3,6 +3,7 @@
 *.md
 *.yaml
 Setup.hs
-LICENCE
+LICENSE
 .stack-work/
 *.zip
+.Rhistory
